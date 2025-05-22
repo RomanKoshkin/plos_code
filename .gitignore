@@ -31,3 +31,4 @@ dw_*
 *.pkl
 *.pdf
 *.png
+.venv
