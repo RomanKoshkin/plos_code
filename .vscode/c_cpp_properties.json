@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/roman/miniconda3/envs/__base__/lib/python3.7/site-packages/pybind11/include",
+                "/home/roman/miniconda3/envs/__base__/include/python3.7m/",
+                "/usr/include/boost"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
