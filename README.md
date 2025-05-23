@@ -6,7 +6,7 @@ This repo contains essential code for reproducing the results reported in the pa
 
 #### 1 Clone the repo
 
-git clone git@github.com:RomanKoshkin/plos_code.git
+git clone git@github.com:oist-ncbc/koshkin_fukai_2025.git
 
 #### 2 Install the dependencies into a clean enviroment
 
